@@ -1,0 +1,9 @@
+{
+	"projects":
+	[
+		"ContactEntity",
+		"ContactService",
+		"ContactWorkImplementations",
+		"WorkInterfaces"
+	]
+}
